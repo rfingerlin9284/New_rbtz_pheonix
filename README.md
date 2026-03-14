@@ -3,7 +3,7 @@ Newest most advanced tuned prototype based off the rbotzilla_pheonix repo.
 
 ## Current Status
 
-This repository is **currently only linked documentation and project setup guidance**.
+This repository **currently only contains documentation and project setup guidance**.
 
 What is already completed in this repository:
 - Basic GitHub repository creation
