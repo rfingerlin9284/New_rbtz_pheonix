@@ -1,0 +1,22 @@
+# Coinbase Advanced Trade SDK
+coinbase-advanced-py>=1.4.0
+
+# OANDA v20 REST API client
+oandapyV20>=0.7.2
+
+# HTTP / async HTTP
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Scheduling / task runner
+apscheduler>=3.10.4
+
+# Data / numerical
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Logging (structured)
+structlog>=24.1.0
